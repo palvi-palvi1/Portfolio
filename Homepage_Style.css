@@ -1,0 +1,42 @@
+body {
+    background: radial-gradient(123.95% 100.07% at 7.49% 13.21%, #000 38.94%, #082B62 97.11%, #0D4296 97.12%);margin: 0;height: 100vh;color: white;font-family: 'Segoe UI';overflow: hidden;border: 1px solid #000;box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.box {
+    margin-left: 80px; margin-top: 250px; padding: 40px; background: rgba(255, 255, 255, 0.05);border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 24px;backdrop-filter: blur(15px);width: fit-content;max-width: 600px;
+}
+
+.Greeting_Text {
+    color: #099DFF;font-family: "IM FELL Great Primer";font-size: 40px;font-weight: 400;margin-bottom: 10px;
+}
+
+.Title_Text {
+    color: #FFF;font-family: "Hiragino Mincho Pro" ;font-size: 70px;font-weight: 600;margin: 10px 0;
+}
+
+
+.bio {
+    color: #FFF;font-family: "Buenard";font-size: 20px;font-weight: 400;line-height: 1.4;
+}
+
+.nav-menu a {
+    text-decoration: none;color: white;font-family: 'Segoe UI', sans-serif;
+}
+.Animation_Image {
+    position: absolute; bottom: 0; right: 0; height: 600px; width: auto;
+}
+.nav-menu {
+    display: flex;list-style: none;padding: 30px 80px;align-items: center;margin: 0;
+}
+
+.logo {
+    margin-right: auto;font-size: 24px;font-weight: bold;
+}
+
+.nav-item {
+    margin-left: 60px;
+}
+
+
+
+

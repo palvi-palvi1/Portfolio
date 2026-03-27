@@ -1,0 +1,26 @@
+body {
+    background: radial-gradient(123.95% 100.07% at 7.49% 13.21%, #000 38.94%, #082B62 97.11%, #0D4296 97.12%);
+    margin: 0;height: 100vh;color: white;font-family: 'Segoe UI';overflow: hidden;border: 1px solid #000;box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.box {
+    margin-left: 80px; margin-top: 150px; padding: 60px; background: rgba(255, 255, 255, 0.05);border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 24px;backdrop-filter: blur(15px);width: fit-content;max-width: 600px;
+}
+
+.nav-menu {
+    display: flex;list-style: none;padding: 30px 80px;align-items: center;margin: 0;
+}
+
+.logo {
+    margin-right: auto;font-size: 24px;font-weight: bold;
+}
+.nav-item {
+    margin-left: 60px;
+}
+.nav-menu a {
+    text-decoration: none;color: white;font-family: 'Segoe UI', sans-serif;
+}
+
+.Contact_Image{
+    position: absolute; height: 800px; width: auto; border-radius: 5%;bottom: 0;right: 1px; top: 0; opacity:0.9; z-index: -1;object-fit: contain;}
+
