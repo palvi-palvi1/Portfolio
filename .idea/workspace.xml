@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9accd3c7-e9e4-4db7-b607-8a160a3634dd" name="Changes" comment="" />
+    <list default="true" id="9accd3c7-e9e4-4db7-b607-8a160a3634dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/About_Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/About_Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact_Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Contact_Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project_Style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "palvi-palvi1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/palvi-palvi1/Portfolio.git",
+    "accountId": "ec449ca9-6edf-499a-a773-890b1c5511f6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -36,6 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -75,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774528031948</updated>
       <workItem from="1774528033143" duration="51000" />
-      <workItem from="1774528089127" duration="20920000" />
+      <workItem from="1774528089127" duration="22152000" />
     </task>
     <servers />
   </component>

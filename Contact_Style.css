@@ -1,6 +1,5 @@
 body {
-    background: radial-gradient(123.95% 100.07% at 7.49% 13.21%, #000 38.94%, #082B62 97.11%, #0D4296 97.12%);
-    margin: 0;height: 100vh;color: white;font-family: 'Segoe UI';overflow: hidden;border: 1px solid #000;box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    background: radial-gradient(123.95% 100.07% at 7.49% 13.21%, #000 38.94%, #082B62 97.11%, #0D4296 97.12%);margin: 0;height: 100vh;color: white;font-family: 'Segoe UI';overflow: hidden;border: 1px solid #000;box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
 
 .box {
